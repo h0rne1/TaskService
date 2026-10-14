@@ -123,8 +123,4 @@ docker rm task-service
 | `EXPOSE 8080` | Документирует используемый порт |
 | `ENTRYPOINT ["dotnet", "TaskService.dll"]` | Команда запуска приложения |
 
-## Результаты проверки
 
-- [docker-ps.txt](docker-ps.txt) — работающий контейнер и проброшенный порт
-- [api-response.txt](api-response.txt) — ответ API на `GET /tasks`
-- [docker-logs.txt](docker-logs.txt) — логи контейнера
