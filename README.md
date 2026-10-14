@@ -48,6 +48,8 @@ TaskService/
 ```bash
 dotnet run --urls http://localhost:5050
 ```
+<img width="517" height="305" alt="изображение" src="https://github.com/user-attachments/assets/f56e3c95-1cf4-4885-b7bb-8d55c32f6070" />
+
 
 Проверка в браузере или через curl:
 
